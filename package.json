@@ -1,0 +1,27 @@
+{
+  "name": "sorting-array",
+  "version": "1.0.0",
+  "description": "this npm package help to user sort the data from the array in javascript. user can sort data with/without object name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array-sorting",
+    "npm-array-sorting",
+    "data-sorting",
+    "javascript-array-sorting",
+    "array-data-sorting",
+    "array-data-sorting-with-objectname",
+    "array",
+    "sorting",
+    "javascript"
+  ],
+  "author": "akash kumar singh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akash22396/sorting-array"
+  }
+  
+}
