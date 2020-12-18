@@ -36,7 +36,7 @@ sortArray([1, 2, 4, 3, 5], "desc");
 ```
 
 # Other Similler
- for array filter visit: https://www.npmjs.com/package/npm-array-filter,
+ for array filter visit: https://www.npmjs.com/package/npm-array-filter,\n
  for array find visit: https://www.npmjs.com/package/npm-array-find
 
 
